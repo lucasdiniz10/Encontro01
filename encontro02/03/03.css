@@ -1,0 +1,22 @@
+
+table{
+    font-family: Arial;
+    font-size: 12px;
+}
+caption{
+    background-color: #0D5188;
+    color: white;
+    width: 600px;
+}
+.primeiraLinha{
+    background-color: #66C5E3
+}
+.segundaLinha, .terceiraLinha{
+    background-color: #C7E7F3;
+}
+.cidades{
+    color: #0D5188
+}
+.center, .posicao{
+    text-align: center;
+}
